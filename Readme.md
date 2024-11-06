@@ -1,4 +1,4 @@
-# WAP to create a pyramid of the character '*' and a reverse pyramid.
+# Program 3: WAP to create a pyramid of the character '*' and a reverse pyramid.
 code= n = int(input("enter the no of rows"))
 <br>
 for i in range(n):
